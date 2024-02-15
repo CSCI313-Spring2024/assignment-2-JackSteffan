@@ -1,0 +1,35 @@
+p {
+    font-size: large;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6bc3fd;
+}
+
+.nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+   
+  .nav a:hover {
+    background-color: #016fff;
+    color: black;
+  }
+
+  li a {
+    color: rgb(255, 0, 200);
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(255, 0, 200);
+    color: rgb(0, 0, 0);
+  }
